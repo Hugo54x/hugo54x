@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">||Artist|Programmer||</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo54x&label=Profile%20views&color=0e75b6&style=flat" alt="hugo54x" /> </p>
 
 - 🔭 I’m currently working on **Pick2Light | AnkiOCR | PBRTilesetGenerator**
 
@@ -13,9 +12,9 @@
 
 - 📫 How to reach me **You sure find a way ;)**
 
-- 📄 Know about my experiences [-> LinkedIn|Github|ArtStation <-](-> LinkedIn|Github|ArtStation <-)
+- 📄 Know about my experiences [https://www.linkedin.com/pierregrimme](https://www.linkedin.com/pierregrimme)
 
-- ⚡ Fun fact **|--------->Error encountered! |**
+- ⚡ Fun fact **[------->!ERROR ENCOUNTERED!<]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo54x&show_icons=true&locale=en" alt="hugo54x" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo54x&label=Profile%20views&color=0e75b6&style=flat" alt="hugo54x" /> </p>

@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **You sure find a way ;)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/pierregrimme](https://www.linkedin.com/pierregrimme)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pierregrimme)
 
 - ⚡ Fun fact **[------->!ERROR ENCOUNTERED!<]**
 

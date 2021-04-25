@@ -2,7 +2,7 @@
 <h3 align="center">||Artist|Programmer||</h3>
 
 
-- 🔭 I’m currently working on **Pick2Light | AnkiOCR | PBRTilesetGenerator**
+- 🔭 I’m currently working on **PBRTilesetGenerator**
 
 - 🌱 I’m currently learning **Electrical Stuff | CAD | Software Development**
 
